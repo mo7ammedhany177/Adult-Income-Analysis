@@ -24,10 +24,10 @@ In this project I analyzed the Adult Income dataset and built ML models to predi
 ## Visualizations
 
 ### Correlation Heatmap
-![Heatmap](images/heatmap.png)
+![Heatmap](Images/heatmap.png)
 
 ### Confusion Matrix
-![Confusion Matrix](images/confusionmatrix.png)
+![Confusion Matrix](Images/confusionmatrix.png)
 
 ## Results
 Random Forest achieved the best accuracy.
