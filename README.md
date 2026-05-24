@@ -21,6 +21,13 @@ In this project I analyzed the Adult Income dataset and built ML models to predi
 - Logistic Regression
 - Decision Tree
 - Random Forest
+## Visualizations
+
+### Correlation Heatmap
+![Heatmap](images/heatmap.png)
+
+### Confusion Matrix
+![Confusion Matrix](images/confusionmatrix.png)
 
 ## Results
 Random Forest achieved the best accuracy.
